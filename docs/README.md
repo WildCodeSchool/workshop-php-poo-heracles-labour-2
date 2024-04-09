@@ -84,3 +84,6 @@ Réactualise la page, tu fais maintenant beaucoup plus de dégâts et tu es mieu
  
 N'hésite pas à jouer avec ce code pour aller plus loin, une correction te sera fournie pour le prochain atelier.
 
+**Épisode suivant**  
+[Les oiseaux du lac Stymphale](https://wildcodeschool.github.io/workshop-php-poo-heracles-labour-3/)
+{: .text-center :}
